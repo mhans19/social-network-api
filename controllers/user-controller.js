@@ -119,3 +119,5 @@ const userController = {
   }
 // Module Export
 module.exports = userController;
+
+//BONUS: Remove a user's associated thoughts when deleted
