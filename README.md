@@ -33,7 +33,7 @@
 ## **APPLICATION LINKS**
 > Live Application (Not relevant for this project)  
 > [GitHub Repository](https://github.com/mhans19/social-network-api)  
-> [Video Demonstration](????????????????????????)  
+> Walkthrough Demonstration: [Part 1](https://youtu.be/Gx8wNyqoYQw) [Part 2](https://youtu.be/O2oXUyELg4o)    
 
 ---
 
@@ -70,7 +70,7 @@ This application was developed with the following application structures:
 > 1. Initiate the server (e.g., 'npm start')  
 > 2. Open [Insomnia](https://insomnia.rest/) for testing localhost:3001/api/ API enpoints (i.e., **GET**, **POST**, **PUT**, and **DELETE** routes for **users**, **thoughts**, **friends** and **reactions**)  
 > 
-> [Walkthrough Demonstration](????????????????????)  
+> Walkthrough Demonstration: [Part 1](https://youtu.be/Gx8wNyqoYQw) [Part 2](https://youtu.be/O2oXUyELg4o)    
 
 ---
 
